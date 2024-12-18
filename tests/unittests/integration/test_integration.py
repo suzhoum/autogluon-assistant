@@ -1,2 +1,7 @@
+import logging
+
+logger = logging.getLogger(__name__)
+
+
 def test_titanic_prediction():
-    print("original test...")
+    logger.info("original test...")
