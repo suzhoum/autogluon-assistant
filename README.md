@@ -21,7 +21,7 @@ AutoGluon Assistant (AG-A) provides users a simple interface where they can inpu
 </p>
 
 
-## 💾 Installation
+## 💾 Installation Guide
 
 AutoGluon Assistant is supported on Python 3.8 - 3.11 and is available on Linux, MacOS, and Windows.
 
